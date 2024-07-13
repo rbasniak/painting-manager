@@ -1,0 +1,6 @@
+@PaintingManager_HostAddress = http://localhost:5128
+
+GET {{PaintingManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
